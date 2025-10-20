@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spatial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/spatial/spatial-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/spatial/geo-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

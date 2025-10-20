@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="x-pack-analytics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-analytics/x-pack-analytics-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-analytics/commons-math3-3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

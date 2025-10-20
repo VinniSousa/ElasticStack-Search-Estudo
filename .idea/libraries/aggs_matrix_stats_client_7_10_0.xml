@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aggs-matrix-stats-client-7.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/aggs-matrix-stats/aggs-matrix-stats-client-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

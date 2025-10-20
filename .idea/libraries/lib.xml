@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lucene-join-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/t-digest-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-plugin-classloader-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-smile-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-spatial-extras-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-suggest-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-highlighter-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-memory-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-launchers-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-spatial3d-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jts-core-1.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-cli-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jopt-simple-5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-geo-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-backward-codecs-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hppc-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-core-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-secure-sm-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-yaml-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-queryparser-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spatial4j-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-cbor-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/HdrHistogram-2.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-version-checker-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-common-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-misc-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-sandbox-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-queries-8.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/elasticsearch-x-content-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-grouping-8.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

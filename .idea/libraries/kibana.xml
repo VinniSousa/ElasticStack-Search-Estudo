@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="kibana">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/kibana/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/httpcore-4.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/elasticsearch-rest-client-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/httpasyncclient-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/elasticsearch-ssl-config-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/reindex-client-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/kibana-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/httpcore-nio-4.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/kibana/httpclient-4.5.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

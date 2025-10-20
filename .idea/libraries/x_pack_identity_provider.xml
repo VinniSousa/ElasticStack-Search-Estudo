@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="x-pack-identity-provider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/x-pack-identity-provider-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/java-support-7.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/xmlsec-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-profile-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-core-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/log4j-slf4j-impl-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-soap-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/httpclient-cache-4.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-messaging-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-saml-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/cryptacular-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-xmlsec-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-storage-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-messaging-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-profile-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-saml-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-xmlsec-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-security-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-storage-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-security-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/opensaml-soap-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-identity-provider/metrics-core-3.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

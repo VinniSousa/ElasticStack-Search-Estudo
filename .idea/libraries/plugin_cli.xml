@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="plugin-cli">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tools/plugin-cli/elasticsearch-plugin-cli-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools/plugin-cli/bcpg-fips-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools/plugin-cli/bc-fips-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

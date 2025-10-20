@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="analysis-common-7.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/analysis-common/analysis-common-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

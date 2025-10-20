@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lang-painless">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/lang-painless-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/asm-commons-7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/asm-tree-7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/antlr4-runtime-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/elasticsearch-scripting-painless-spi-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/asm-analysis-7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/asm-7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/lang-painless/asm-util-7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

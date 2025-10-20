@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ingest-geoip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ingest-geoip/ingest-geoip-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-geoip/jackson-databind-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-geoip/jackson-annotations-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-geoip/maxmind-db-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-geoip/geoip2-2.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

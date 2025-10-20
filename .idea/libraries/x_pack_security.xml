@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="x-pack-security">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/log4j-slf4j-impl-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/x-pack-security-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-messaging-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-security-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/jakarta.mail-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/java-support-7.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-storage-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/lang-tag-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/xmlsec-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-soap-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-messaging-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-profile-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/httpclient-cache-4.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-profile-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/cryptacular-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-xmlsec-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/metrics-core-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/nimbus-jose-jwt-8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-xmlsec-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-storage-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/accessors-smart-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-security-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-saml-impl-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/json-smart-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-saml-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/asm-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-soap-api-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/oauth2-oidc-sdk-7.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-security/opensaml-core-3.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

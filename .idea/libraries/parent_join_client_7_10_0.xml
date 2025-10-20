@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parent-join-client-7.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/parent-join/parent-join-client-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ingest-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/ingest-common/elasticsearch-dissect-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-common/joni-2.1.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-common/elasticsearch-grok-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-common/ingest-common-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/ingest-common/jcodings-1.0.44.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

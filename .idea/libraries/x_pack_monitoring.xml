@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="x-pack-monitoring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-monitoring/x-pack-monitoring-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-monitoring/elasticsearch-rest-client-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-monitoring/elasticsearch-rest-client-sniffer-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

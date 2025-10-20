@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="x-pack-sql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-sql/sql-proto-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-sql/sql-action-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-sql/aggs-matrix-stats-client-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-sql/x-pack-sql-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

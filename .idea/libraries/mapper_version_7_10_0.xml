@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mapper-version-7.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/mapper-version/mapper-version-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

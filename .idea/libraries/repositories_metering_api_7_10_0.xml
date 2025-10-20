@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="repositories-metering-api-7.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/repositories-metering-api/repositories-metering-api-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

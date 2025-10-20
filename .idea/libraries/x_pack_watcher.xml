@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="x-pack-watcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-watcher/jakarta.activation-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-watcher/guava-27.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-watcher/owasp-java-html-sanitizer-20191001.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-watcher/x-pack-watcher-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-watcher/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-watcher/jakarta.mail-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="security-cli">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tools/security-cli/bcpkix-jdk15on-1.64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools/security-cli/elasticsearch-security-cli-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools/security-cli/bcprov-jdk15on-1.64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

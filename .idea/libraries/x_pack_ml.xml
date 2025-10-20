@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="x-pack-ml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-ml/joni-2.1.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-ml/jcodings-1.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-ml/super-csv-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-ml/elasticsearch-grok-7.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-ml/icu4j-62.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-ml/x-pack-ml-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

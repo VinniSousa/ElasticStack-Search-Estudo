@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="x-pack-rollup-7.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/x-pack-rollup/x-pack-rollup-7.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
